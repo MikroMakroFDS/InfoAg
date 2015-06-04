@@ -51,5 +51,6 @@ public class Vector {
 
     public void selfPrint(){
         System.out.printf("(%f|%f|%f)",this.x,this.y,this.z);
+		//hallo ewwin
     }
 }
